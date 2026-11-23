@@ -1,6 +1,6 @@
 # Fruit Machines - The Private Collection
 
-Core archive size: 1.4TB (ZStandard)
+Core archive size: 1.4TB (ZStandard)  
 update cadence: when enough new content is collected and curated
 
 > [!IMPORTANT]

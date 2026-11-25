@@ -26,7 +26,8 @@ This collection exists to preserve the gaming creations of the FME community. We
 
 These recreations allow players and preservationists to experience machines that have largely disappeared from real-world venues.
 
-<img width="1792" height="1024" alt="Fruit Machines, The Private Collection" src="https://github.com/user-attachments/assets/8bd41f9a-1519-4a7b-beab-766b03e30f80" />
+<img width="2048" height="768" alt="Fruit Machines, The Private Collection1" src="https://github.com/user-attachments/assets/733354b0-cef2-41f3-8ef0-7d09f1645421" />
+
 ---
 
 # What Is Fruit Machine Emulation?
@@ -291,4 +292,7 @@ See the `LICENSE` and `NOTICE` files for full details and scope clarification.
 
 ## CREDITS
 
-Created for the retro game preservation community by Eggman, with Claude’s help turning ideas into code. A special thank you to the few who submit new content openly and freely to be preserved.  You know who you are!
+Created for the retro game preservation community by Eggman, with Claude’s help turning ideas into code. A special thank you to the faithful few who submit new content openly and freely to be preserved.  You know who you are, and you're awesome! And a big special fuck you goes out to the paywalling bellends who try to attach a copyright to rom dumps like they belong to them, and then make you pay to get them with "donations". And you call yourself a preservationist? You're pathetic is what you are.
+
+<img width="1792" height="1024" alt="Fruit Machines, The Private Collection2" src="https://github.com/user-attachments/assets/d75dd6b0-1750-4ed3-837a-37cc8b4eb180" />
+
